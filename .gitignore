@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+!.env.example
+outputs/
+projects/
+models/
+.cache/
+*.log
+*.part
+.DS_Store
+skill/paper-days-video/assets/fonts/*.otf

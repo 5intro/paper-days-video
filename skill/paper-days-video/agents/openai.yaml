@@ -1,0 +1,6 @@
+interface:
+  display_name: "纸间日常 · Paper Days"
+  short_description: "从一个选题制作暖纸质生活动画、双语字幕和精致产品故事视频"
+  default_prompt: "使用 $paper-days-video，把这个选题制作成纸间日常风格的完整视频。"
+policy:
+  allow_implicit_invocation: true

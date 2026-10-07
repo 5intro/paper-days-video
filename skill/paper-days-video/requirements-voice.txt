@@ -1,0 +1,18 @@
+# Python 3.11 or 3.12. Install the appropriate PyTorch build separately, then these dependencies.
+# The source voice environment used torch==2.14.1+cpu; CUDA needs a matching CUDA build.
+# These pins preserve the recorded source environment's direct voice dependencies.
+qwen-tts==0.1.1
+transformers==4.57.3
+accelerate==1.12.0
+huggingface-hub==0.36.2
+tokenizers==0.22.2
+safetensors==0.8.0
+numpy==2.5.3
+soundfile==0.14.0
+librosa==1.0.0
+numba==0.68.0
+llvmlite==0.50.0
+scipy==1.18.1
+einops==0.8.2
+onnxruntime==1.30.0
+psutil==7.2.2

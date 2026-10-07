@@ -1,0 +1,18 @@
+{
+  "license": "OFL-1.1",
+  "version": "2.005R",
+  "files": [
+    {
+      "filename": "SourceHanSansSC-Regular.otf",
+      "size_bytes": 16529832,
+      "sha256": "f1d8611151880c6c336aabeac4640ef434fa13cbfbf1ffe82d0a71b2a5637256",
+      "url": "https://raw.githubusercontent.com/adobe-fonts/source-han-sans/6c709ca72d3d7c46ab42ebecc1a26e7d69595a37/OTF/SimplifiedChinese/SourceHanSansSC-Regular.otf"
+    },
+    {
+      "filename": "SourceHanSansSC-Bold.otf",
+      "size_bytes": 16963428,
+      "sha256": "df2b90f5bcc6d01dfc964cec5f6d535d6b6aebd26ed7fd79a9c1b3f2112fcb6b",
+      "url": "https://raw.githubusercontent.com/adobe-fonts/source-han-sans/6c709ca72d3d7c46ab42ebecc1a26e7d69595a37/OTF/SimplifiedChinese/SourceHanSansSC-Bold.otf"
+    }
+  ]
+}
